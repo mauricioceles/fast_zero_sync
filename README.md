@@ -1,1 +1,1 @@
-# fast_zero_sync
+A nossa intenção neste curso é facilitar o aprendizado no desenvolvimento de APIs usando o FastAPI. Vamos explorar como integrar bancos de dados, criar testes e um sistema básico de autenticação com JWT. Tudo isso para oferecer uma boa base para quem quer trabalhar com desenvolvimento web com Python. A ideia desse curso é apresentar os conceitos de forma prática, construindo um projeto do zero e indo até a sua fase de produção.
